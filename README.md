@@ -8,7 +8,7 @@ I'm a Computer Science undergrad (Class of 2028) specializing in **Cybersecurity
 - 🤝 I'm looking to collaborate on **open source full-stack or cybersecurity projects**
 - 🌱 I'm currently learning **backend architecture, auth systems & system design**
 
-## 🔵 Checkout DevShare *(In Progress)*
+## 🔵DevShare *(In Progress)*
 
 *A full-stack platform for developers to share, discover, and collaborate on projects.*
 
