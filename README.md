@@ -4,17 +4,16 @@ I'm a Computer Science undergrad (Class of 2028) specializing in **Cybersecurity
 
 ---
 
-- 🛠️ I'm currently working on **DevShare** — a full-stack app for developers to share projects & connect
+- 🛠️ I'm currently working on sharpening my **problem-solving skills** through DSA and building full-stack projects from scratch
 - 🤝 I'm looking to collaborate on **open source full-stack or cybersecurity projects**
 - 🌱 I'm currently learning **backend architecture, auth systems & system design**
 
-## 🔵DevShare *(In Progress)*
+## 🟢 Task Management API 
+*A full-stack task management application with secure authentication and containerized deployment.*
 
-*A full-stack platform for developers to share, discover, and collaborate on projects.*
-
-- **Tech:** React.js, Node.js, MongoDB, Express.js
-- A space where developers can post their projects with live links and tech stacks
-- Features authentication, project feeds, and community interaction
+- **Tech:** Node.js, Express.js, React, PostgreSQL, JWT, Docker & Docker Compose
+- Built a RESTful API with JWT-based authentication, role-based access control, and full CRUD task operations with priority and status tracking
+- Containerized the entire app using Docker Compose for seamless local setup and deployment
 
 --
 
